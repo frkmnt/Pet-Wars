@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: bcfd4b0c863a75a4d81d8f16f72949f6
+timeCreated: 1525213224
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - TileManagerPrefab: {fileID: 1792250580017056, guid: f057efea71c42f94d93bea2b90f69e64,
+      type: 2}
+  - PetManagerPrefab: {fileID: 1085675114432188, guid: 655519d860d8c884fa91cc6e507776ce,
+      type: 2}
+  - ClickManagerPrefab: {fileID: 1449699271174158, guid: 0de714f4ecc727e41a06f4e2d2f6b2f5,
+      type: 2}
+  - PetSelectionPrefab: {fileID: 1679605863628116, guid: 92a8199ceafebc741be4fc190566417f,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

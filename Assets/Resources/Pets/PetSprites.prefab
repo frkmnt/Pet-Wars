@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1733368242666226}
+  m_IsPrefabAsset: 1
+--- !u!1 &1733368242666226
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4401867915344746}
+  - component: {fileID: 114748461612522562}
+  m_Layer: 0
+  m_Name: PetSprites
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4401867915344746
+Transform:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1733368242666226}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -3.7387037, y: 0.15756029, z: -3.0824091}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114748461612522562
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1733368242666226}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 65a7b871da4a93c44ab5ab7bff8d7752, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  textures:
+  - {fileID: 21300000, guid: 17bdce6155d856647bdd3d9960f47a7c, type: 3}
+  - {fileID: 21300000, guid: 2fe74360702a4214aaacac8d2a36095a, type: 3}
+  - {fileID: 21300000, guid: 9aade1039fe600d4cb9146cbcfbb9d44, type: 3}
+  - {fileID: 21300000, guid: 280520bd8cba28040898fc5f862b1444, type: 3}
+  - {fileID: 21300000, guid: 24e42930e8b963b419af27212c6931f4, type: 3}
+  - {fileID: 21300000, guid: 7c99a9e406763f147817ec4adc6227de, type: 3}
+  - {fileID: 21300000, guid: 10b16eadf01fe634d80a7d49e2ec93b4, type: 3}
+  - {fileID: 21300000, guid: f7c09166d51b34c4c800c9d9b5891003, type: 3}
+  - {fileID: 21300000, guid: ab48a5c9cee6d0948a3cb2beb5425c1e, type: 3}
+  - {fileID: 21300000, guid: add990d68f225ee489d131fad67209a8, type: 3}
+  - {fileID: 21300000, guid: a7022fa31a471ef4b8a39039bb99fe1d, type: 3}
+  - {fileID: 21300000, guid: 0b30d89749713d84f88d8c9088722815, type: 3}
+  - {fileID: 21300000, guid: b73aa514d123f4549ba88ecbe1d8191a, type: 3}
+  Main1: 
+  Main2: 
